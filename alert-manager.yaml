@@ -8,5 +8,5 @@ route:
 receivers:
 - name: 'pagerduty-notifications'
   pagerduty_configs:
-  - service_key: dd0940d3cdb2d30d3cd64076407
+  - service_key: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     send_resolved: true
