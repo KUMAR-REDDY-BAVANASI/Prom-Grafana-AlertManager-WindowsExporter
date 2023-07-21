@@ -1,4 +1,4 @@
-# Windows-Exporter-Dashboard-for-Grafana
+# Windows-Exporter-Dashboards-For-Grafana
 
 15024  -- mssql windows exporter
 
